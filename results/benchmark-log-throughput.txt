@@ -1,0 +1,851 @@
+Start Swift Part1 empty
+# Warmup
+# Warmup Iteration 0: 17855.100000 ops/ms
+# Warmup Iteration 1: 17787.363000 ops/ms
+# Warmup Iteration 2: 17859.492000 ops/ms
+# Warmup Iteration 3: 17936.930000 ops/ms
+# Warmup Iteration 4: 17896.875000 ops/ms
+# Warmup Iteration 5: 17947.868000 ops/ms
+# Warmup Iteration 6: 17905.672000 ops/ms
+# Warmup Iteration 7: 17691.246000 ops/ms
+# Warmup Iteration 8: 17830.823000 ops/ms
+# Warmup Iteration 9: 17795.687000 ops/ms
+Iteration 0: 17867.328000 ops/ms
+Iteration 1: 17970.907000 ops/ms
+Iteration 2: 17969.892000 ops/ms
+Iteration 3: 17911.180000 ops/ms
+Iteration 4: 17761.811000 ops/ms
+Iteration 5: 17865.540000 ops/ms
+Iteration 6: 17916.794000 ops/ms
+Iteration 7: 17900.458000 ops/ms
+Iteration 8: 17887.728000 ops/ms
+Iteration 9: 17859.644000 ops/ms
+Statistics: (min, avg, max) = (17761.811000, 17891.128200, 17970.907000), stdev = 60.243216
+Start Swift Part1 lambda
+# Warmup
+# Warmup Iteration 0: 8552.070000 ops/ms
+# Warmup Iteration 1: 8558.128000 ops/ms
+# Warmup Iteration 2: 8621.693000 ops/ms
+# Warmup Iteration 3: 8540.806000 ops/ms
+# Warmup Iteration 4: 8544.088000 ops/ms
+# Warmup Iteration 5: 8543.595000 ops/ms
+# Warmup Iteration 6: 8527.453000 ops/ms
+# Warmup Iteration 7: 8564.493000 ops/ms
+# Warmup Iteration 8: 8595.926000 ops/ms
+# Warmup Iteration 9: 8599.708000 ops/ms
+Iteration 0: 8591.168000 ops/ms
+Iteration 1: 8600.158000 ops/ms
+Iteration 2: 8510.555000 ops/ms
+Iteration 3: 8549.427000 ops/ms
+Iteration 4: 8622.857000 ops/ms
+Iteration 5: 8567.244000 ops/ms
+Iteration 6: 8650.521000 ops/ms
+Iteration 7: 8566.507000 ops/ms
+Iteration 8: 8593.213000 ops/ms
+Iteration 9: 8537.139000 ops/ms
+Statistics: (min, avg, max) = (8510.555000, 8578.878900, 8650.521000), stdev = 41.422184
+Start Swift Part1 inline function
+# Warmup
+# Warmup Iteration 0: 10126.002000 ops/ms
+# Warmup Iteration 1: 10121.774000 ops/ms
+# Warmup Iteration 2: 10112.348000 ops/ms
+# Warmup Iteration 3: 10163.696000 ops/ms
+# Warmup Iteration 4: 10124.861000 ops/ms
+# Warmup Iteration 5: 10107.882000 ops/ms
+# Warmup Iteration 6: 10155.735000 ops/ms
+# Warmup Iteration 7: 10130.013000 ops/ms
+# Warmup Iteration 8: 10149.792000 ops/ms
+# Warmup Iteration 9: 10130.100000 ops/ms
+Iteration 0: 10112.272000 ops/ms
+Iteration 1: 10131.836000 ops/ms
+Iteration 2: 10141.846000 ops/ms
+Iteration 3: 10126.475000 ops/ms
+Iteration 4: 10117.788000 ops/ms
+Iteration 5: 10062.548000 ops/ms
+Iteration 6: 10124.943000 ops/ms
+Iteration 7: 10096.305000 ops/ms
+Iteration 8: 10169.185000 ops/ms
+Iteration 9: 10142.644000 ops/ms
+Statistics: (min, avg, max) = (10062.548000, 10122.584200, 10169.185000), stdev = 28.820579
+Start Swift Part1 Static call to private constructor
+# Warmup
+# Warmup Iteration 0: 3474.570000 ops/ms
+# Warmup Iteration 1: 3587.649000 ops/ms
+# Warmup Iteration 2: 3477.060000 ops/ms
+# Warmup Iteration 3: 3587.899000 ops/ms
+# Warmup Iteration 4: 3489.220000 ops/ms
+# Warmup Iteration 5: 3391.250000 ops/ms
+# Warmup Iteration 6: 3554.646000 ops/ms
+# Warmup Iteration 7: 3377.982000 ops/ms
+# Warmup Iteration 8: 3495.105000 ops/ms
+# Warmup Iteration 9: 3579.470000 ops/ms
+Iteration 0: 3461.032000 ops/ms
+Iteration 1: 3394.593000 ops/ms
+Iteration 2: 3501.681000 ops/ms
+Iteration 3: 3591.068000 ops/ms
+Iteration 4: 3432.609000 ops/ms
+Iteration 5: 3374.063000 ops/ms
+Iteration 6: 3428.533000 ops/ms
+Iteration 7: 3396.498000 ops/ms
+Iteration 8: 3496.684000 ops/ms
+Iteration 9: 3584.635000 ops/ms
+Statistics: (min, avg, max) = (3374.063000, 3466.139600, 3591.068000), stdev = 76.634798
+Start Swift Part2 Local function capturing local variable
+# Warmup
+# Warmup Iteration 0: 12720.896000 ops/ms
+# Warmup Iteration 1: 12745.207000 ops/ms
+# Warmup Iteration 2: 12724.769000 ops/ms
+# Warmup Iteration 3: 12734.380000 ops/ms
+# Warmup Iteration 4: 12686.526000 ops/ms
+# Warmup Iteration 5: 12742.235000 ops/ms
+# Warmup Iteration 6: 12736.191000 ops/ms
+# Warmup Iteration 7: 12755.858000 ops/ms
+# Warmup Iteration 8: 12716.924000 ops/ms
+# Warmup Iteration 9: 12707.080000 ops/ms
+Iteration 0: 12723.508000 ops/ms
+Iteration 1: 12750.207000 ops/ms
+Iteration 2: 12751.711000 ops/ms
+Iteration 3: 12729.739000 ops/ms
+Iteration 4: 12738.012000 ops/ms
+Iteration 5: 12674.188000 ops/ms
+Iteration 6: 12683.760000 ops/ms
+Iteration 7: 12738.483000 ops/ms
+Iteration 8: 12734.989000 ops/ms
+Iteration 9: 12706.993000 ops/ms
+Statistics: (min, avg, max) = (12674.188000, 12723.159000, 12751.711000), stdev = 26.661238
+Start Swift Part2 Local function without capturing local variable
+# Warmup
+# Warmup Iteration 0: 12789.604000 ops/ms
+# Warmup Iteration 1: 12824.480000 ops/ms
+# Warmup Iteration 2: 12804.167000 ops/ms
+# Warmup Iteration 3: 12782.335000 ops/ms
+# Warmup Iteration 4: 12802.520000 ops/ms
+# Warmup Iteration 5: 12821.709000 ops/ms
+# Warmup Iteration 6: 12806.219000 ops/ms
+# Warmup Iteration 7: 12819.997000 ops/ms
+# Warmup Iteration 8: 12813.290000 ops/ms
+# Warmup Iteration 9: 12780.305000 ops/ms
+Iteration 0: 12795.813000 ops/ms
+Iteration 1: 12819.483000 ops/ms
+Iteration 2: 12831.934000 ops/ms
+Iteration 3: 12814.438000 ops/ms
+Iteration 4: 12736.468000 ops/ms
+Iteration 5: 12795.404000 ops/ms
+Iteration 6: 12714.589000 ops/ms
+Iteration 7: 12831.451000 ops/ms
+Iteration 8: 12804.476000 ops/ms
+Iteration 9: 12802.830000 ops/ms
+Statistics: (min, avg, max) = (12714.589000, 12794.688600, 12831.934000), stdev = 39.034075
+Start Swift Part2 null check cost
+# Warmup
+# Warmup Iteration 0: 9318.530000 ops/ms
+# Warmup Iteration 1: 9277.993000 ops/ms
+# Warmup Iteration 2: 9339.480000 ops/ms
+# Warmup Iteration 3: 9342.128000 ops/ms
+# Warmup Iteration 4: 9350.340000 ops/ms
+# Warmup Iteration 5: 9341.998000 ops/ms
+# Warmup Iteration 6: 9341.935000 ops/ms
+# Warmup Iteration 7: 9342.428000 ops/ms
+# Warmup Iteration 8: 9341.857000 ops/ms
+# Warmup Iteration 9: 9316.524000 ops/ms
+Iteration 0: 9342.850000 ops/ms
+Iteration 1: 9364.529000 ops/ms
+Iteration 2: 9378.457000 ops/ms
+Iteration 3: 9346.095000 ops/ms
+Iteration 4: 9345.137000 ops/ms
+Iteration 5: 9368.620000 ops/ms
+Iteration 6: 9276.135000 ops/ms
+Iteration 7: 9365.045000 ops/ms
+Iteration 8: 9352.884000 ops/ms
+Iteration 9: 9346.597000 ops/ms
+Statistics: (min, avg, max) = (9276.135000, 9348.634900, 9378.457000), stdev = 28.168679
+Start Swift Part2 vararg spread cost
+# Warmup
+# Warmup Iteration 0: 480.310000 ops/ms
+# Warmup Iteration 1: 481.099000 ops/ms
+# Warmup Iteration 2: 480.621000 ops/ms
+# Warmup Iteration 3: 480.872000 ops/ms
+# Warmup Iteration 4: 478.512000 ops/ms
+# Warmup Iteration 5: 479.522000 ops/ms
+# Warmup Iteration 6: 480.845000 ops/ms
+# Warmup Iteration 7: 480.486000 ops/ms
+# Warmup Iteration 8: 480.677000 ops/ms
+# Warmup Iteration 9: 479.765000 ops/ms
+Iteration 0: 479.335000 ops/ms
+Iteration 1: 479.947000 ops/ms
+Iteration 2: 480.697000 ops/ms
+Iteration 3: 480.536000 ops/ms
+Iteration 4: 478.946000 ops/ms
+Iteration 5: 480.523000 ops/ms
+Iteration 6: 479.876000 ops/ms
+Iteration 7: 477.005000 ops/ms
+Iteration 8: 479.863000 ops/ms
+Iteration 9: 480.210000 ops/ms
+Statistics: (min, avg, max) = (477.005000, 479.693800, 480.697000), stdev = 1.091038
+Start Swift Part3 String delegate
+# Warmup
+# Warmup Iteration 0: 764.855000 ops/ms
+# Warmup Iteration 1: 765.184000 ops/ms
+# Warmup Iteration 2: 766.716000 ops/ms
+# Warmup Iteration 3: 765.156000 ops/ms
+# Warmup Iteration 4: 762.621000 ops/ms
+# Warmup Iteration 5: 761.028000 ops/ms
+# Warmup Iteration 6: 763.523000 ops/ms
+# Warmup Iteration 7: 765.340000 ops/ms
+# Warmup Iteration 8: 763.074000 ops/ms
+# Warmup Iteration 9: 765.932000 ops/ms
+Iteration 0: 765.899000 ops/ms
+Iteration 1: 766.560000 ops/ms
+Iteration 2: 766.411000 ops/ms
+Iteration 3: 766.341000 ops/ms
+Iteration 4: 763.805000 ops/ms
+Iteration 5: 765.765000 ops/ms
+Iteration 6: 765.664000 ops/ms
+Iteration 7: 758.534000 ops/ms
+Iteration 8: 765.711000 ops/ms
+Iteration 9: 765.361000 ops/ms
+Statistics: (min, avg, max) = (758.534000, 765.005100, 766.560000), stdev = 2.402080
+Start Swift Part3 Is in 1..10 (local)
+# Warmup
+# Warmup Iteration 0: 12507.077000 ops/ms
+# Warmup Iteration 1: 12556.542000 ops/ms
+# Warmup Iteration 2: 12513.557000 ops/ms
+# Warmup Iteration 3: 12428.030000 ops/ms
+# Warmup Iteration 4: 12503.185000 ops/ms
+# Warmup Iteration 5: 12494.078000 ops/ms
+# Warmup Iteration 6: 12547.455000 ops/ms
+# Warmup Iteration 7: 12528.488000 ops/ms
+# Warmup Iteration 8: 12550.398000 ops/ms
+# Warmup Iteration 9: 12387.955000 ops/ms
+Iteration 0: 12377.585000 ops/ms
+Iteration 1: 12428.527000 ops/ms
+Iteration 2: 12555.534000 ops/ms
+Iteration 3: 12510.556000 ops/ms
+Iteration 4: 12517.626000 ops/ms
+Iteration 5: 12527.335000 ops/ms
+Iteration 6: 12494.128000 ops/ms
+Iteration 7: 12477.351000 ops/ms
+Iteration 8: 12525.241000 ops/ms
+Iteration 9: 12509.385000 ops/ms
+Statistics: (min, avg, max) = (12477.351000, 12492.326800, 12555.534000), stdev = 52.737314
+Start Swift Part3 Is in 1..10 (indirect)
+# Warmup
+# Warmup Iteration 0: 12212.972000 ops/ms
+# Warmup Iteration 1: 12220.212000 ops/ms
+# Warmup Iteration 2: 12218.784000 ops/ms
+# Warmup Iteration 3: 12268.235000 ops/ms
+# Warmup Iteration 4: 12182.830000 ops/ms
+# Warmup Iteration 5: 12176.899000 ops/ms
+# Warmup Iteration 6: 12199.024000 ops/ms
+# Warmup Iteration 7: 12105.447000 ops/ms
+# Warmup Iteration 8: 12076.141000 ops/ms
+# Warmup Iteration 9: 12209.586000 ops/ms
+Iteration 0: 12225.778000 ops/ms
+Iteration 1: 12219.106000 ops/ms
+Iteration 2: 12240.364000 ops/ms
+Iteration 3: 12226.644000 ops/ms
+Iteration 4: 12230.932000 ops/ms
+Iteration 5: 12239.807000 ops/ms
+Iteration 6: 12220.795000 ops/ms
+Iteration 7: 12247.449000 ops/ms
+Iteration 8: 12091.946000 ops/ms
+Iteration 9: 12177.350000 ops/ms
+Statistics: (min, avg, max) = (12091.946000, 12212.017100, 12247.449000), stdev = 46.354321
+Start Swift Part3 Is in Alfred..Alicia (local)
+# Warmup
+# Warmup Iteration 0: 2303.754000 ops/ms
+# Warmup Iteration 1: 2301.541000 ops/ms
+# Warmup Iteration 2: 2303.957000 ops/ms
+# Warmup Iteration 3: 2300.105000 ops/ms
+# Warmup Iteration 4: 2293.165000 ops/ms
+# Warmup Iteration 5: 2304.916000 ops/ms
+# Warmup Iteration 6: 2302.230000 ops/ms
+# Warmup Iteration 7: 2305.967000 ops/ms
+# Warmup Iteration 8: 2302.410000 ops/ms
+# Warmup Iteration 9: 2299.319000 ops/ms
+Iteration 0: 2299.763000 ops/ms
+Iteration 1: 2305.055000 ops/ms
+Iteration 2: 2307.734000 ops/ms
+Iteration 3: 2304.983000 ops/ms
+Iteration 4: 2295.971000 ops/ms
+Iteration 5: 2304.351000 ops/ms
+Iteration 6: 2303.516000 ops/ms
+Iteration 7: 2304.072000 ops/ms
+Iteration 8: 2287.713000 ops/ms
+Iteration 9: 2301.986000 ops/ms
+Statistics: (min, avg, max) = (2287.713000, 2301.514400, 2307.734000), stdev = 5.834211
+Start Swift Part3 Is in Alfred..Alicia (constant)
+# Warmup
+# Warmup Iteration 0: 11305.013000 ops/ms
+# Warmup Iteration 1: 11300.010000 ops/ms
+# Warmup Iteration 2: 11306.218000 ops/ms
+# Warmup Iteration 3: 11315.918000 ops/ms
+# Warmup Iteration 4: 11326.900000 ops/ms
+# Warmup Iteration 5: 11351.295000 ops/ms
+# Warmup Iteration 6: 11338.788000 ops/ms
+# Warmup Iteration 7: 11389.084000 ops/ms
+# Warmup Iteration 8: 11309.955000 ops/ms
+# Warmup Iteration 9: 11296.301000 ops/ms
+Iteration 0: 11355.790000 ops/ms
+Iteration 1: 11339.370000 ops/ms
+Iteration 2: 11312.374000 ops/ms
+Iteration 3: 11305.673000 ops/ms
+Iteration 4: 11262.834000 ops/ms
+Iteration 5: 11302.893000 ops/ms
+Iteration 6: 11319.965000 ops/ms
+Iteration 7: 11361.987000 ops/ms
+Iteration 8: 11260.417000 ops/ms
+Iteration 9: 11358.167000 ops/ms
+Statistics: (min, avg, max) = (11260.417000, 11317.947000, 11361.987000), stdev = 36.829571
+Start Swift Part3 Range forEach method
+# Warmup
+# Warmup Iteration 0: 196.385000 ops/ms
+# Warmup Iteration 1: 197.049000 ops/ms
+# Warmup Iteration 2: 197.544000 ops/ms
+# Warmup Iteration 3: 197.261000 ops/ms
+# Warmup Iteration 4: 196.807000 ops/ms
+# Warmup Iteration 5: 197.353000 ops/ms
+# Warmup Iteration 6: 196.948000 ops/ms
+# Warmup Iteration 7: 197.333000 ops/ms
+# Warmup Iteration 8: 197.499000 ops/ms
+# Warmup Iteration 9: 197.103000 ops/ms
+Iteration 0: 197.435000 ops/ms
+Iteration 1: 197.180000 ops/ms
+Iteration 2: 197.071000 ops/ms
+Iteration 3: 197.228000 ops/ms
+Iteration 4: 197.070000 ops/ms
+Iteration 5: 197.338000 ops/ms
+Iteration 6: 197.321000 ops/ms
+Iteration 7: 197.178000 ops/ms
+Iteration 8: 196.878000 ops/ms
+Iteration 9: 195.231000 ops/ms
+Statistics: (min, avg, max) = (195.231000, 196.993000, 197.435000), stdev = 0.639120
+Start Swift Part3 Range for in loop
+# Warmup
+# Warmup Iteration 0: 1527.943000 ops/ms
+# Warmup Iteration 1: 1531.511000 ops/ms
+# Warmup Iteration 2: 1529.663000 ops/ms
+# Warmup Iteration 3: 1531.539000 ops/ms
+# Warmup Iteration 4: 1526.149000 ops/ms
+# Warmup Iteration 5: 1527.747000 ops/ms
+# Warmup Iteration 6: 1526.979000 ops/ms
+# Warmup Iteration 7: 1531.222000 ops/ms
+# Warmup Iteration 8: 1529.586000 ops/ms
+# Warmup Iteration 9: 1529.342000 ops/ms
+Iteration 0: 1528.780000 ops/ms
+Iteration 1: 1529.466000 ops/ms
+Iteration 2: 1529.460000 ops/ms
+Iteration 3: 1530.848000 ops/ms
+Iteration 4: 1522.793000 ops/ms
+Iteration 5: 1529.099000 ops/ms
+Iteration 6: 1527.828000 ops/ms
+Iteration 7: 1531.523000 ops/ms
+Iteration 8: 1527.738000 ops/ms
+Iteration 9: 1513.239000 ops/ms
+Statistics: (min, avg, max) = (1513.239000, 1527.077400, 1531.523000), stdev = 5.407874
+Start Swift Part3 Range for in loop with step 1
+# Warmup
+# Warmup Iteration 0: 411.042000 ops/ms
+# Warmup Iteration 1: 410.992000 ops/ms
+# Warmup Iteration 2: 410.690000 ops/ms
+# Warmup Iteration 3: 413.021000 ops/ms
+# Warmup Iteration 4: 411.538000 ops/ms
+# Warmup Iteration 5: 411.845000 ops/ms
+# Warmup Iteration 6: 411.009000 ops/ms
+# Warmup Iteration 7: 410.509000 ops/ms
+# Warmup Iteration 8: 409.398000 ops/ms
+# Warmup Iteration 9: 408.608000 ops/ms
+Iteration 0: 410.770000 ops/ms
+Iteration 1: 411.522000 ops/ms
+Iteration 2: 409.434000 ops/ms
+Iteration 3: 409.576000 ops/ms
+Iteration 4: 410.258000 ops/ms
+Iteration 5: 411.187000 ops/ms
+Iteration 6: 411.941000 ops/ms
+Iteration 7: 412.351000 ops/ms
+Iteration 8: 412.041000 ops/ms
+Iteration 9: 407.844000 ops/ms
+Statistics: (min, avg, max) = (407.844000, 410.692400, 412.351000), stdev = 1.422032
+Start Swift Part3 Print value using indices
+# Warmup
+# Warmup Iteration 0: 336.065000 ops/ms
+# Warmup Iteration 1: 336.714000 ops/ms
+# Warmup Iteration 2: 337.153000 ops/ms
+# Warmup Iteration 3: 337.005000 ops/ms
+# Warmup Iteration 4: 335.870000 ops/ms
+# Warmup Iteration 5: 337.358000 ops/ms
+# Warmup Iteration 6: 336.545000 ops/ms
+# Warmup Iteration 7: 336.244000 ops/ms
+# Warmup Iteration 8: 336.426000 ops/ms
+# Warmup Iteration 9: 335.536000 ops/ms
+Iteration 0: 336.800000 ops/ms
+Iteration 1: 337.070000 ops/ms
+Iteration 2: 336.642000 ops/ms
+Iteration 3: 336.299000 ops/ms
+Iteration 4: 336.330000 ops/ms
+Iteration 5: 337.388000 ops/ms
+Iteration 6: 337.130000 ops/ms
+Iteration 7: 336.478000 ops/ms
+Iteration 8: 337.135000 ops/ms
+Iteration 9: 335.668000 ops/ms
+Statistics: (min, avg, max) = (335.668000, 336.694000, 337.388000), stdev = 0.517406
+Start Swift Part3 Print value using last index range
+# Warmup
+# Warmup Iteration 0: 332.748000 ops/ms
+# Warmup Iteration 1: 335.668000 ops/ms
+# Warmup Iteration 2: 335.710000 ops/ms
+# Warmup Iteration 3: 334.908000 ops/ms
+# Warmup Iteration 4: 335.252000 ops/ms
+# Warmup Iteration 5: 335.220000 ops/ms
+# Warmup Iteration 6: 335.117000 ops/ms
+# Warmup Iteration 7: 335.861000 ops/ms
+# Warmup Iteration 8: 335.562000 ops/ms
+# Warmup Iteration 9: 335.083000 ops/ms
+Iteration 0: 335.134000 ops/ms
+Iteration 1: 334.482000 ops/ms
+Iteration 2: 335.434000 ops/ms
+Iteration 3: 335.753000 ops/ms
+Iteration 4: 334.361000 ops/ms
+Iteration 5: 335.724000 ops/ms
+Iteration 6: 335.004000 ops/ms
+Iteration 7: 335.124000 ops/ms
+Iteration 8: 335.162000 ops/ms
+Iteration 9: 335.613000 ops/ms
+Statistics: (min, avg, max) = (334.361000, 335.179100, 335.753000), stdev = 0.479673
+Start Kotlin Part1 empty
+# Warmup
+# Warmup Iteration 0: 14499.759 ops/ms
+# Warmup Iteration 1: 14558.902 ops/ms
+# Warmup Iteration 2: 14581.468 ops/ms
+# Warmup Iteration 3: 14603.216 ops/ms
+# Warmup Iteration 4: 14503.145 ops/ms
+# Warmup Iteration 5: 14528.992 ops/ms
+# Warmup Iteration 6: 14471.078 ops/ms
+# Warmup Iteration 7: 14622.469 ops/ms
+# Warmup Iteration 8: 14657.68 ops/ms
+# Warmup Iteration 9: 14656.308 ops/ms
+Iteration 0: 14408.257 ops/ms
+Iteration 1: 14377.128 ops/ms
+Iteration 2: 14413.893 ops/ms
+Iteration 3: 14418.317 ops/ms
+Iteration 4: 14388.013 ops/ms
+Iteration 5: 14416.576 ops/ms
+Iteration 6: 14378.347 ops/ms
+Iteration 7: 14383.297 ops/ms
+Iteration 8: 14416.28 ops/ms
+Iteration 9: 14392.801 ops/ms
+Statistics: (min, avg, max) = (14377.128, 14399.290900000002, 14418.317), stdev = 16.990077845939986
+Start Kotlin Part1 lambda
+# Warmup
+# Warmup Iteration 0: 2431.706 ops/ms
+# Warmup Iteration 1: 2447.887 ops/ms
+# Warmup Iteration 2: 2449.065 ops/ms
+# Warmup Iteration 3: 2450.375 ops/ms
+# Warmup Iteration 4: 2445.843 ops/ms
+# Warmup Iteration 5: 2456.91 ops/ms
+# Warmup Iteration 6: 2456.262 ops/ms
+# Warmup Iteration 7: 2455.051 ops/ms
+# Warmup Iteration 8: 2446.871 ops/ms
+# Warmup Iteration 9: 2446.997 ops/ms
+Iteration 0: 2451.884 ops/ms
+Iteration 1: 2454.299 ops/ms
+Iteration 2: 2453.067 ops/ms
+Iteration 3: 2454.228 ops/ms
+Iteration 4: 2450.325 ops/ms
+Iteration 5: 2453.347 ops/ms
+Iteration 6: 2450.723 ops/ms
+Iteration 7: 2457.109 ops/ms
+Iteration 8: 2453.419 ops/ms
+Iteration 9: 2448.42 ops/ms
+Statistics: (min, avg, max) = (2448.42, 2452.6820999999995, 2457.109), stdev = 2.447931800520593
+Start Kotlin Part1 inline function
+# Warmup
+# Warmup Iteration 0: 7935.967 ops/ms
+# Warmup Iteration 1: 7878.514 ops/ms
+# Warmup Iteration 2: 7928.869 ops/ms
+# Warmup Iteration 3: 7911.228 ops/ms
+# Warmup Iteration 4: 7911.303 ops/ms
+# Warmup Iteration 5: 7892.971 ops/ms
+# Warmup Iteration 6: 7933.335 ops/ms
+# Warmup Iteration 7: 7934.787 ops/ms
+# Warmup Iteration 8: 7931.763 ops/ms
+# Warmup Iteration 9: 7931.873 ops/ms
+Iteration 0: 7919.161 ops/ms
+Iteration 1: 7920.857 ops/ms
+Iteration 2: 7925.765 ops/ms
+Iteration 3: 7923.827 ops/ms
+Iteration 4: 7911.678 ops/ms
+Iteration 5: 7917.837 ops/ms
+Iteration 6: 7926.715 ops/ms
+Iteration 7: 7947.05 ops/ms
+Iteration 8: 7934.43 ops/ms
+Iteration 9: 7928.96 ops/ms
+Statistics: (min, avg, max) = (7911.678, 7925.6280000000015, 7947.05), stdev = 9.842143860855659
+Start Kotlin Part1 Companion object call to private constructor
+# Warmup
+# Warmup Iteration 0: 3418.053 ops/ms
+# Warmup Iteration 1: 3383.716 ops/ms
+# Warmup Iteration 2: 3416.44 ops/ms
+# Warmup Iteration 3: 3414.125 ops/ms
+# Warmup Iteration 4: 3413.815 ops/ms
+# Warmup Iteration 5: 3421.243 ops/ms
+# Warmup Iteration 6: 3419.248 ops/ms
+# Warmup Iteration 7: 3423.639 ops/ms
+# Warmup Iteration 8: 3418.729 ops/ms
+# Warmup Iteration 9: 3409.432 ops/ms
+Iteration 0: 3414.325 ops/ms
+Iteration 1: 3416.378 ops/ms
+Iteration 2: 3417.39 ops/ms
+Iteration 3: 3419.868 ops/ms
+Iteration 4: 3412.307 ops/ms
+Iteration 5: 3419.623 ops/ms
+Iteration 6: 3406.61 ops/ms
+Iteration 7: 3415.577 ops/ms
+Iteration 8: 3419.47 ops/ms
+Iteration 9: 3411.005 ops/ms
+Statistics: (min, avg, max) = (3406.61, 3415.2553, 3419.868), stdev = 4.299904186270983
+Start Kotlin Part2 Local function capturing local variable
+# Warmup
+# Warmup Iteration 0: 2555.682 ops/ms
+# Warmup Iteration 1: 2534.551 ops/ms
+# Warmup Iteration 2: 2551.208 ops/ms
+# Warmup Iteration 3: 2552.261 ops/ms
+# Warmup Iteration 4: 2551.79 ops/ms
+# Warmup Iteration 5: 2553.176 ops/ms
+# Warmup Iteration 6: 2560.731 ops/ms
+# Warmup Iteration 7: 2557.863 ops/ms
+# Warmup Iteration 8: 2556.862 ops/ms
+# Warmup Iteration 9: 2557.275 ops/ms
+Iteration 0: 2553.902 ops/ms
+Iteration 1: 2556.856 ops/ms
+Iteration 2: 2556.759 ops/ms
+Iteration 3: 2551.343 ops/ms
+Iteration 4: 2556.005 ops/ms
+Iteration 5: 2552.069 ops/ms
+Iteration 6: 2553.714 ops/ms
+Iteration 7: 2556.699 ops/ms
+Iteration 8: 2547.329 ops/ms
+Iteration 9: 2559.183 ops/ms
+Statistics: (min, avg, max) = (2547.329, 2554.3859, 2559.183), stdev = 3.461370873255605
+Start Kotlin Part2 Local function without capturing local variable
+# Warmup
+# Warmup Iteration 0: 2555.467 ops/ms
+# Warmup Iteration 1: 2563.549 ops/ms
+# Warmup Iteration 2: 2532.234 ops/ms
+# Warmup Iteration 3: 2551.745 ops/ms
+# Warmup Iteration 4: 2554.501 ops/ms
+# Warmup Iteration 5: 2554.711 ops/ms
+# Warmup Iteration 6: 2566.2 ops/ms
+# Warmup Iteration 7: 2556.001 ops/ms
+# Warmup Iteration 8: 2567.171 ops/ms
+# Warmup Iteration 9: 2547.812 ops/ms
+Iteration 0: 2551.241 ops/ms
+Iteration 1: 2551.182 ops/ms
+Iteration 2: 2557.992 ops/ms
+Iteration 3: 2550.1 ops/ms
+Iteration 4: 2549.123 ops/ms
+Iteration 5: 2552.816 ops/ms
+Iteration 6: 2551.294 ops/ms
+Iteration 7: 2559.972 ops/ms
+Iteration 8: 2557.136 ops/ms
+Iteration 9: 2547.846 ops/ms
+Statistics: (min, avg, max) = (2547.846, 2552.8702000000003, 2559.972), stdev = 4.079967396383973
+Start Kotlin Part2 Null check cost
+# Warmup
+# Warmup Iteration 0: 8574.651 ops/ms
+# Warmup Iteration 1: 8597.387 ops/ms
+# Warmup Iteration 2: 8509.739 ops/ms
+# Warmup Iteration 3: 8563.414 ops/ms
+# Warmup Iteration 4: 8564.783 ops/ms
+# Warmup Iteration 5: 8597.294 ops/ms
+# Warmup Iteration 6: 8597.855 ops/ms
+# Warmup Iteration 7: 8632.677 ops/ms
+# Warmup Iteration 8: 8612.861 ops/ms
+# Warmup Iteration 9: 8565.447 ops/ms
+Iteration 0: 8593.49 ops/ms
+Iteration 1: 8592.475 ops/ms
+Iteration 2: 8598.703 ops/ms
+Iteration 3: 8571.476 ops/ms
+Iteration 4: 8593.23 ops/ms
+Iteration 5: 8607.776 ops/ms
+Iteration 6: 8591.874 ops/ms
+Iteration 7: 8588.05 ops/ms
+Iteration 8: 8596.535 ops/ms
+Iteration 9: 8589.579 ops/ms
+Statistics: (min, avg, max) = (8571.476, 8592.3188, 8607.776), stdev = 9.189577995388586
+Start Kotlin Part2 Vararg spread cost
+# Warmup
+# Warmup Iteration 0: 1583.852 ops/ms
+# Warmup Iteration 1: 1582.993 ops/ms
+# Warmup Iteration 2: 1573.572 ops/ms
+# Warmup Iteration 3: 1582.395 ops/ms
+# Warmup Iteration 4: 1584.795 ops/ms
+# Warmup Iteration 5: 1587.497 ops/ms
+# Warmup Iteration 6: 1585.227 ops/ms
+# Warmup Iteration 7: 1584.541 ops/ms
+# Warmup Iteration 8: 1584.738 ops/ms
+# Warmup Iteration 9: 1582.991 ops/ms
+Iteration 0: 1586.07 ops/ms
+Iteration 1: 1584.988 ops/ms
+Iteration 2: 1587.444 ops/ms
+Iteration 3: 1586.858 ops/ms
+Iteration 4: 1583.947 ops/ms
+Iteration 5: 1587.952 ops/ms
+Iteration 6: 1585.234 ops/ms
+Iteration 7: 1586.15 ops/ms
+Iteration 8: 1587.075 ops/ms
+Iteration 9: 1578.849 ops/ms
+Statistics: (min, avg, max) = (1578.849, 1585.4567000000002, 1587.952), stdev = 2.6209707722309705
+Start Kotlin Part2 Usual IntArray
+# Warmup
+# Warmup Iteration 0: 2837.438 ops/ms
+# Warmup Iteration 1: 2835.32 ops/ms
+# Warmup Iteration 2: 2835.065 ops/ms
+# Warmup Iteration 3: 2816.677 ops/ms
+# Warmup Iteration 4: 2830.702 ops/ms
+# Warmup Iteration 5: 2837.421 ops/ms
+# Warmup Iteration 6: 2833.53 ops/ms
+# Warmup Iteration 7: 2837.488 ops/ms
+# Warmup Iteration 8: 2836.307 ops/ms
+# Warmup Iteration 9: 2829.199 ops/ms
+Iteration 0: 2828.275 ops/ms
+Iteration 1: 2833.882 ops/ms
+Iteration 2: 2830.658 ops/ms
+Iteration 3: 2836.839 ops/ms
+Iteration 4: 2824.381 ops/ms
+Iteration 5: 2836.649 ops/ms
+Iteration 6: 2835.194 ops/ms
+Iteration 7: 2835.023 ops/ms
+Iteration 8: 2832.329 ops/ms
+Iteration 9: 2832.09 ops/ms
+Statistics: (min, avg, max) = (2824.381, 2832.532, 2836.839), stdev = 3.928854257640245
+Start Kotlin Part3 String delegate
+# Warmup
+# Warmup Iteration 0: 439.601 ops/ms
+# Warmup Iteration 1: 438.84 ops/ms
+# Warmup Iteration 2: 439.195 ops/ms
+# Warmup Iteration 3: 435.607 ops/ms
+# Warmup Iteration 4: 437.854 ops/ms
+# Warmup Iteration 5: 434.987 ops/ms
+# Warmup Iteration 6: 433.77 ops/ms
+# Warmup Iteration 7: 438.334 ops/ms
+# Warmup Iteration 8: 438.9 ops/ms
+# Warmup Iteration 9: 437.407 ops/ms
+Iteration 0: 440.068 ops/ms
+Iteration 1: 439.189 ops/ms
+Iteration 2: 439.857 ops/ms
+Iteration 3: 440.11 ops/ms
+Iteration 4: 439.902 ops/ms
+Iteration 5: 440.224 ops/ms
+Iteration 6: 439.95 ops/ms
+Iteration 7: 439.991 ops/ms
+Iteration 8: 440.82 ops/ms
+Iteration 9: 439.86 ops/ms
+Statistics: (min, avg, max) = (439.189, 439.99710000000005, 440.82), stdev = 0.40127171453876803
+Start Kotlin Part3 Is in 1..10 (local)
+# Warmup
+# Warmup Iteration 0: 2845.612 ops/ms
+# Warmup Iteration 1: 2856.273 ops/ms
+# Warmup Iteration 2: 2844.412 ops/ms
+# Warmup Iteration 3: 2830.002 ops/ms
+# Warmup Iteration 4: 2827.361 ops/ms
+# Warmup Iteration 5: 2843.18 ops/ms
+# Warmup Iteration 6: 2838.52 ops/ms
+# Warmup Iteration 7: 2826.235 ops/ms
+# Warmup Iteration 8: 2849.504 ops/ms
+# Warmup Iteration 9: 2842.223 ops/ms
+Iteration 0: 2835.849 ops/ms
+Iteration 1: 2840.934 ops/ms
+Iteration 2: 2840.207 ops/ms
+Iteration 3: 2835.398 ops/ms
+Iteration 4: 2839.797 ops/ms
+Iteration 5: 2836.172 ops/ms
+Iteration 6: 2843.993 ops/ms
+Iteration 7: 2842.225 ops/ms
+Iteration 8: 2842.939 ops/ms
+Iteration 9: 2829.775 ops/ms
+Statistics: (min, avg, max) = (2829.775, 2838.7288999999996, 2843.993), stdev = 4.370930118407223
+Start Kotlin Part3 Is in 1..10 (indirect)
+# Warmup
+# Warmup Iteration 0: 2660.147 ops/ms
+# Warmup Iteration 1: 2663.54 ops/ms
+# Warmup Iteration 2: 2674.588 ops/ms
+# Warmup Iteration 3: 2668.705 ops/ms
+# Warmup Iteration 4: 2640.225 ops/ms
+# Warmup Iteration 5: 2663.053 ops/ms
+# Warmup Iteration 6: 2700.272 ops/ms
+# Warmup Iteration 7: 2678.612 ops/ms
+# Warmup Iteration 8: 2691.964 ops/ms
+# Warmup Iteration 9: 2663.447 ops/ms
+Iteration 0: 2618.549 ops/ms
+Iteration 1: 2613.922 ops/ms
+Iteration 2: 2616.75 ops/ms
+Iteration 3: 2623.424 ops/ms
+Iteration 4: 2618.237 ops/ms
+Iteration 5: 2628.45 ops/ms
+Iteration 6: 2637.966 ops/ms
+Iteration 7: 2618.038 ops/ms
+Iteration 8: 2619.796 ops/ms
+Iteration 9: 2621.161 ops/ms
+Statistics: (min, avg, max) = (2613.922, 2621.6293, 2637.966), stdev = 6.970687692042967
+Start Kotlin Part3 Is in Alfred..Alicia (local)
+# Warmup
+# Warmup Iteration 0: 2497.324 ops/ms
+# Warmup Iteration 1: 2494.739 ops/ms
+# Warmup Iteration 2: 2502.323 ops/ms
+# Warmup Iteration 3: 2504.318 ops/ms
+# Warmup Iteration 4: 2472.847 ops/ms
+# Warmup Iteration 5: 2497.537 ops/ms
+# Warmup Iteration 6: 2499.666 ops/ms
+# Warmup Iteration 7: 2502.954 ops/ms
+# Warmup Iteration 8: 2504.312 ops/ms
+# Warmup Iteration 9: 2495.448 ops/ms
+Iteration 0: 2511.893 ops/ms
+Iteration 1: 2507.801 ops/ms
+Iteration 2: 2508.933 ops/ms
+Iteration 3: 2511.474 ops/ms
+Iteration 4: 2509.298 ops/ms
+Iteration 5: 2514.061 ops/ms
+Iteration 6: 2518.701 ops/ms
+Iteration 7: 2512.631 ops/ms
+Iteration 8: 2511.345 ops/ms
+Iteration 9: 2511.758 ops/ms
+Statistics: (min, avg, max) = (2507.801, 2511.7895, 2518.701), stdev = 3.059062828529217
+Start Kotlin Part3 Is in Alfred..Alicia (constant)
+# Warmup
+# Warmup Iteration 0: 3946.957 ops/ms
+# Warmup Iteration 1: 3941.096 ops/ms
+# Warmup Iteration 2: 3929.995 ops/ms
+# Warmup Iteration 3: 3947.108 ops/ms
+# Warmup Iteration 4: 3911.837 ops/ms
+# Warmup Iteration 5: 3924.617 ops/ms
+# Warmup Iteration 6: 3907.154 ops/ms
+# Warmup Iteration 7: 3919.811 ops/ms
+# Warmup Iteration 8: 3930.146 ops/ms
+# Warmup Iteration 9: 3930.503 ops/ms
+Iteration 0: 4608.58 ops/ms
+Iteration 1: 4612.699 ops/ms
+Iteration 2: 4614.837 ops/ms
+Iteration 3: 4619.33 ops/ms
+Iteration 4: 4599.041 ops/ms
+Iteration 5: 4599.367 ops/ms
+Iteration 6: 4612.341 ops/ms
+Iteration 7: 4606.158 ops/ms
+Iteration 8: 4620.67 ops/ms
+Iteration 9: 4601.85 ops/ms
+Statistics: (min, avg, max) = (4599.041, 4609.4873, 4620.67), stdev = 7.822978063940082
+Start Kotlin Part3 Range forEach method
+# Warmup
+# Warmup Iteration 0: 464.71 ops/ms
+# Warmup Iteration 1: 465.142 ops/ms
+# Warmup Iteration 2: 464.983 ops/ms
+# Warmup Iteration 3: 464.39 ops/ms
+# Warmup Iteration 4: 462.716 ops/ms
+# Warmup Iteration 5: 459.604 ops/ms
+# Warmup Iteration 6: 463.507 ops/ms
+# Warmup Iteration 7: 464.345 ops/ms
+# Warmup Iteration 8: 465.622 ops/ms
+# Warmup Iteration 9: 463.546 ops/ms
+Iteration 0: 464.976 ops/ms
+Iteration 1: 464.356 ops/ms
+Iteration 2: 464.948 ops/ms
+Iteration 3: 465.283 ops/ms
+Iteration 4: 463.315 ops/ms
+Iteration 5: 465.552 ops/ms
+Iteration 6: 465.178 ops/ms
+Iteration 7: 464.785 ops/ms
+Iteration 8: 464.09 ops/ms
+Iteration 9: 463.939 ops/ms
+Statistics: (min, avg, max) = (463.315, 464.64220000000006, 465.552), stdev = 0.6986936699616296
+Start Kotlin Part3 Range for in loop
+# Warmup
+# Warmup Iteration 0: 2788.436 ops/ms
+# Warmup Iteration 1: 2768.478 ops/ms
+# Warmup Iteration 2: 2769.808 ops/ms
+# Warmup Iteration 3: 2782.267 ops/ms
+# Warmup Iteration 4: 2780.531 ops/ms
+# Warmup Iteration 5: 2768.477 ops/ms
+# Warmup Iteration 6: 2788.875 ops/ms
+# Warmup Iteration 7: 2785.735 ops/ms
+# Warmup Iteration 8: 2785.779 ops/ms
+# Warmup Iteration 9: 2774.809 ops/ms
+Iteration 0: 2785.814 ops/ms
+Iteration 1: 2784.222 ops/ms
+Iteration 2: 2786.748 ops/ms
+Iteration 3: 2787.117 ops/ms
+Iteration 4: 2783.364 ops/ms
+Iteration 5: 2783.078 ops/ms
+Iteration 6: 2784.535 ops/ms
+Iteration 7: 2789.58 ops/ms
+Iteration 8: 2788.202 ops/ms
+Iteration 9: 2785.671 ops/ms
+Statistics: (min, avg, max) = (2783.078, 2785.8331, 2789.58), stdev = 2.1116283053606035
+Start Kotlin Part3 Range for in loop with step 1
+# Warmup
+# Warmup Iteration 0: 2764.276 ops/ms
+# Warmup Iteration 1: 2779.817 ops/ms
+# Warmup Iteration 2: 2764.737 ops/ms
+# Warmup Iteration 3: 2787.177 ops/ms
+# Warmup Iteration 4: 2776.749 ops/ms
+# Warmup Iteration 5: 2749.036 ops/ms
+# Warmup Iteration 6: 2761.927 ops/ms
+# Warmup Iteration 7: 2776.368 ops/ms
+# Warmup Iteration 8: 2775.338 ops/ms
+# Warmup Iteration 9: 2774.636 ops/ms
+Iteration 0: 2782.481 ops/ms
+Iteration 1: 2775.795 ops/ms
+Iteration 2: 2778.334 ops/ms
+Iteration 3: 2775.033 ops/ms
+Iteration 4: 2763.494 ops/ms
+Iteration 5: 2760.405 ops/ms
+Iteration 6: 2780.25 ops/ms
+Iteration 7: 2762.881 ops/ms
+Iteration 8: 2783.498 ops/ms
+Iteration 9: 2773.45 ops/ms
+Statistics: (min, avg, max) = (2760.405, 2773.5621, 2783.498), stdev = 8.442562097294072
+Start Kotlin Part3 Print value using indices
+# Warmup
+# Warmup Iteration 0: 574.699 ops/ms
+# Warmup Iteration 1: 574.669 ops/ms
+# Warmup Iteration 2: 574.504 ops/ms
+# Warmup Iteration 3: 574.151 ops/ms
+# Warmup Iteration 4: 573.712 ops/ms
+# Warmup Iteration 5: 574.736 ops/ms
+# Warmup Iteration 6: 570.251 ops/ms
+# Warmup Iteration 7: 575.148 ops/ms
+# Warmup Iteration 8: 575.482 ops/ms
+# Warmup Iteration 9: 575.981 ops/ms
+Iteration 0: 577.632 ops/ms
+Iteration 1: 576.452 ops/ms
+Iteration 2: 578.194 ops/ms
+Iteration 3: 578.597 ops/ms
+Iteration 4: 576.225 ops/ms
+Iteration 5: 577.876 ops/ms
+Iteration 6: 577.229 ops/ms
+Iteration 7: 577.917 ops/ms
+Iteration 8: 577.169 ops/ms
+Iteration 9: 577.673 ops/ms
+Statistics: (min, avg, max) = (576.225, 577.4964, 578.597), stdev = 0.741954206433541
+Start Kotlin Part3 Print value using last index range
+# Warmup
+# Warmup Iteration 0: 1108.914 ops/ms
+# Warmup Iteration 1: 1108.312 ops/ms
+# Warmup Iteration 2: 1109.331 ops/ms
+# Warmup Iteration 3: 1109.736 ops/ms
+# Warmup Iteration 4: 1107.825 ops/ms
+# Warmup Iteration 5: 1110.13 ops/ms
+# Warmup Iteration 6: 1100.468 ops/ms
+# Warmup Iteration 7: 1108.844 ops/ms
+# Warmup Iteration 8: 1108.647 ops/ms
+# Warmup Iteration 9: 1106.964 ops/ms
+Iteration 0: 1108.023 ops/ms
+Iteration 1: 1107.053 ops/ms
+Iteration 2: 1106.869 ops/ms
+Iteration 3: 1107.067 ops/ms
+Iteration 4: 1105.718 ops/ms
+Iteration 5: 1107.418 ops/ms
+Iteration 6: 1107.209 ops/ms
+Iteration 7: 1107.193 ops/ms
+Iteration 8: 1107.555 ops/ms
+Iteration 9: 1105.748 ops/ms
+Statistics: (min, avg, max) = (1105.718, 1106.9852999999998, 1108.023), stdev = 0.7336010193255629
