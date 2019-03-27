@@ -1,3 +1,9 @@
+/**
+ * This code is Kotlin/Native version of "Kotlin's hidden costs - Benchmarks".
+ * Original code is here.
+ * https://github.com/renatoathaydes/kotlin-hidden-costs-benchmark/blob/master/src/main/java/com/athaydes/kotlin/part2/kotlin-sources.kt
+ */
+
 fun runLocalFunctionCapturingLocalVariable(a: Int): Int {
     return someMath(a)
 }
